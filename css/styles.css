@@ -14,3 +14,11 @@ h4 {
   font-style: italic;
   font-weight: bold;
 }
+
+li {
+  font-weight: bold;
+}
+
+.dates {
+  font-style: italic;
+}

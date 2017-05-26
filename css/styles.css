@@ -2,6 +2,11 @@ body {
   font-family: times;
 }
 
+img {
+  float: right;
+  zoom: 10%;
+}
+
 h1 {
   text-align: center;
 }
@@ -12,10 +17,6 @@ h2 {
 
 h4 {
   font-style: italic;
-  font-weight: bold;
-}
-
-li {
   font-weight: bold;
 }
 
